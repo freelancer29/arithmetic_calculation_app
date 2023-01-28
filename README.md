@@ -1,8 +1,9 @@
 # Hi welcome!
 
-# This is a simple calculation application i designed after lerning about "addEventListener"
+# This is a simple calculation application i designed after learning about "addEventListener"
 
-![App Image]<a href="https://gyazo.com/2e1ceecfcbf2ac40e998dd93ce6e969c"><img src="https://i.gyazo.com/2e1ceecfcbf2ac40e998dd93ce6e969c.png" alt="Image from Gyazo" width="799"/></a>
+# App Image
+<a href="https://gyazo.com/2e1ceecfcbf2ac40e998dd93ce6e969c"><img src="https://i.gyazo.com/2e1ceecfcbf2ac40e998dd93ce6e969c.png" alt="Image from Gyazo" width="799"/></a>
 
 ### This site was built using [github page] (https://freelancer29.github.io/arithmetic_calculation_app/)
 
